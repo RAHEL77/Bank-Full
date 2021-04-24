@@ -1,0 +1,22 @@
+Node JS: Weekend
+Assignment
+Node JS – Bank API with Mongoose + React
+
+The following exercise contains the following subjects:
+ express
+ Mongoose
+ React
+
+Submitting instructions:
+
+Instructions:
+• Convert your previous weekend assignment “bank api” to
+Mongoose.
+• Use MongoAtlas to handle your database.
+• Connect your express server with a React app.
+• Test your server end points in React.
+First connect your database to Mongo Atlas. Then test your end
+points with Postman on the server side. When everything works
+as it supposed to, test your end points in React.
+Then push to heroku.
+----
